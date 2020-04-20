@@ -1,0 +1,17 @@
+C:\Users\mklr9\source\repos\CalculadoraPrueba\CalculadoraPrueba\bin\Debug\netcoreapp3.0\CalculadoraPrueba.exe
+C:\Users\mklr9\source\repos\CalculadoraPrueba\CalculadoraPrueba\bin\Debug\netcoreapp3.0\CalculadoraPrueba.deps.json
+C:\Users\mklr9\source\repos\CalculadoraPrueba\CalculadoraPrueba\bin\Debug\netcoreapp3.0\CalculadoraPrueba.runtimeconfig.json
+C:\Users\mklr9\source\repos\CalculadoraPrueba\CalculadoraPrueba\bin\Debug\netcoreapp3.0\CalculadoraPrueba.runtimeconfig.dev.json
+C:\Users\mklr9\source\repos\CalculadoraPrueba\CalculadoraPrueba\bin\Debug\netcoreapp3.0\CalculadoraPrueba.dll
+C:\Users\mklr9\source\repos\CalculadoraPrueba\CalculadoraPrueba\bin\Debug\netcoreapp3.0\CalculadoraPrueba.pdb
+C:\Users\mklr9\source\repos\CalculadoraPrueba\CalculadoraPrueba\obj\Debug\netcoreapp3.0\CalculadoraPrueba.csprojAssemblyReference.cache
+C:\Users\mklr9\source\repos\CalculadoraPrueba\CalculadoraPrueba\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\mklr9\source\repos\CalculadoraPrueba\CalculadoraPrueba\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\mklr9\source\repos\CalculadoraPrueba\CalculadoraPrueba\obj\Debug\netcoreapp3.0\CalculadoraPrueba_MarkupCompile.cache
+C:\Users\mklr9\source\repos\CalculadoraPrueba\CalculadoraPrueba\obj\Debug\netcoreapp3.0\CalculadoraPrueba_MarkupCompile.lref
+C:\Users\mklr9\source\repos\CalculadoraPrueba\CalculadoraPrueba\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\mklr9\source\repos\CalculadoraPrueba\CalculadoraPrueba\obj\Debug\netcoreapp3.0\CalculadoraPrueba.g.resources
+C:\Users\mklr9\source\repos\CalculadoraPrueba\CalculadoraPrueba\obj\Debug\netcoreapp3.0\CalculadoraPrueba.AssemblyInfoInputs.cache
+C:\Users\mklr9\source\repos\CalculadoraPrueba\CalculadoraPrueba\obj\Debug\netcoreapp3.0\CalculadoraPrueba.AssemblyInfo.cs
+C:\Users\mklr9\source\repos\CalculadoraPrueba\CalculadoraPrueba\obj\Debug\netcoreapp3.0\CalculadoraPrueba.dll
+C:\Users\mklr9\source\repos\CalculadoraPrueba\CalculadoraPrueba\obj\Debug\netcoreapp3.0\CalculadoraPrueba.pdb
